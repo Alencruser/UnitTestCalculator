@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 use PHPUnit\Framework\TestCase;
-
+require "./src/Calculator.php";
 
 final class calculatorTest extends TestCase
 {
